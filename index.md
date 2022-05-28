@@ -1,18 +1,18 @@
-# Welcome to My profile.
+# Welcome to my Profile.
 
 I am a passionate front-end and back-end developer from Ireland 🇮🇪 ☘️
 
 I use JavaScript and Python most of the time for backend programming (JavaScript for front-end).
 
 ## About me
-### My profile
+### My github profile
 [You can check out my profile here](https://github.com/dripini)
 
 
 ## How I learnt
 ![Hi](javascript2.svg) 
 
-I learnt JS(JavaScript) using [CodeCademy](https://codecademy.com), [Scrimba](https://scrimba.com/) and [Free Code Camp](https://www.freecodecamp.org). Although CodeCademy and Scrimba helped me the most, Free Code Camp is still very good. You can also learn 🐍 Python with those too!
+I learnt JS(JavaScript) using [CodeCademy](https://codecademy.com), [Scrimba](https://scrimba.com/) and [Free Code Camp](https://www.freecodecamp.org). Although CodeCademy and Scrimba helped me the most, Free Code Camp is still very good. You can also learn 🐍 Python with those too! I code on a ASUS Chromebook C223N but I really want an Acer NITRO 5 256GB (£630) and a MEDION Crawler E10 512GB (£543) but I cant get either of them because of expenses. But otheer than that, you should check out Scrimba, CodeCademy and freeCodeCamp
 
 ### Scrimba
 Scrimba allows you to study where you want, when you want. We also substitute the classroom teaching experience with interactive screencast, live events, and peer-to-peer help between students.
@@ -34,6 +34,8 @@ It compiles the often scattered information about coding into clear and useful l
 - UI Design
 - From Figma to Code
 - To unit testing
-- And it includes a front end career path.
+- It includes a front end career path.
 
   **And It is Interactive!**
+
+##
