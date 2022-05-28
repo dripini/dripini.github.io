@@ -39,6 +39,6 @@ It compiles the often scattered information about coding into clear and useful l
   **And It is Interactive!**
 
 ## Why i open-source 
-:evergreen_tree: Open Source is great if you want to do things quicker because of **contributions**! :smile:
+Open Source is great if you want to do things quicker because of **contributions**!
 Open source has been very helpful to many startups due to how you can easily edit the source code and modify to suit your needs.
 The philosophy of open-source is that everyone can contribute to make a better project.
