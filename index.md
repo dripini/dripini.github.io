@@ -11,4 +11,5 @@ I use JavaScript and Python most of the time for backend programming.
 
 ## How I learnt
 ![Hi](javascript2.svg) 
+
 I learnt JavaScript using CodeCademy, Scrimba and Free Code Camp. I still am learning till this day by the way!
