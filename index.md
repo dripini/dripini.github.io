@@ -28,5 +28,12 @@ It compiles the often scattered information about coding into clear and useful l
 ## What should you choose?
 #### I think Scrimba is the way forward if you have just started coding! It has:
 - A friendly community that learns to code **with** you in **Discord**
-- Multiple Courses
+- Multiple Courses including;
 - React
+- JavaScript
+- UI Design
+- From Figma to Code
+- To unit testing
+- And it includes a front end career path.
+
+  **And It is Interactive!**
