@@ -36,7 +36,7 @@ It compiles the often scattered information about coding into clear and useful l
 - To unit testing
 - It includes a front end career path.
 
-  **And It is Interactive!**
+  **And It is Interactive! You will love it!**
 
 ## Why i open-source 
 Open Source is great if you want to do things quicker because of **contributions**!
