@@ -12,7 +12,7 @@ I use JavaScript and Python most of the time for backend programming (JavaScript
 ## How I learnt
 ![Hi](javascript2.svg) 
 
-I learnt JS(JavaScript) using [CodeCademy](https://codecademy.com), [Scrimba](https://scrimba.com/) and [Free Code Camp](https://www.freecodecamp.org). Although CodeCademy and Scrimba helped me the most, Free Code Camp is still very good. You can also learn 🐍 Python with those too! I code on a ASUS Chromebook C223N but I really want an Acer NITRO 5 256GB (£630) and a MEDION Crawler E10 512GB (£543) but I cant get either of them because of expenses. But otheer than that, you should check out Scrimba, CodeCademy and freeCodeCamp
+I learnt JS(JavaScript) using [CodeCademy](https://codecademy.com), [Scrimba](https://scrimba.com/) and [Free Code Camp](https://www.freecodecamp.org). Although CodeCademy and Scrimba helped me the most, Free Code Camp is still very good. You can also learn 🐍 Python with those too! But otheer than that, you should check out Scrimba, CodeCademy and freeCodeCamp
 
 ### Scrimba
 Scrimba allows you to study where you want, when you want. We also substitute the classroom teaching experience with interactive screencast, live events, and peer-to-peer help between students.
