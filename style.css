@@ -1,6 +1,8 @@
 body {
     background: #121C35;
-    color: #FFFFFF
+    color: #FFFFFF;
+    font-family: 'Poppins';
+    font-style: normal;
 }
 
 h1 {
@@ -8,8 +10,4 @@ h1 {
     font-style: normal;
     font-weight: 700;
     color: #FFFFFF;
-}
-
-#funfacts {
-    font-weight: bold ;
 }
