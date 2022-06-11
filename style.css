@@ -1,3 +1,10 @@
 body {
     background: #121C35;
 }
+
+h1 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    color: #FFFFFF;
+}
